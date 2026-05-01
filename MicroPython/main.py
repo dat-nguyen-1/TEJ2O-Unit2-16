@@ -1,12 +1,11 @@
 """
 Created by: Dat Nguyen
 Created on: Apr 2026
-This module will recieve radio messages
+This module will receive radio messages
 """
 
 from microbit import *
 import radio
-
 
 # initialize display
 display.clear()
